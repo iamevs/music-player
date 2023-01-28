@@ -1,0 +1,20 @@
+{
+  "name": "MusicPlayer",
+  "type": "module",
+  "version": "0.0.1",
+  "private": true,
+  "description": "A music player build using React js",
+  "repository": "https://github.com/iamevs/music-player.git",
+  "author": "iamevs <iamevs143@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^2.0.2"
+  }
+}
